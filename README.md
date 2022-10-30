@@ -1,4 +1,4 @@
-# Assignmnet2-415
+# Quotes Saver
  
  ## This is a dockerized MERN stack application:
  ### The application shows a list of Quotes with the ability to add a new quote. 
